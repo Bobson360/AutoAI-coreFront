@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "coreFront"
+  "cli": {
+    "analytics": "4ab6767a-583a-4942-8cac-1fb850c99ee3"
+  }
 }
